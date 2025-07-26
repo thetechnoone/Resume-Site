@@ -1,0 +1,16 @@
+body{background-color: gray;}
+.contact-body{background-color: grey;}
+.hobbies-body{background-color: gray;}
+.picture-box{border-bottom:solid 2px black}
+.summary-box{border-bottom:solid 2px black}
+.education-box{border-bottom:solid 2px black}
+.workexp-box {border-bottom:solid 2px black}
+.skills-box{border-bottom:solid 2px black}
+.Ockelbo{padding:5px 0px 5px 0px}
+.FC{padding-bottom:5px}
+.NY{padding-bottom:5px}
+.hobbies-box{
+    width:90%
+    ;border:solid 2px black;
+    margin:auto;
+}
